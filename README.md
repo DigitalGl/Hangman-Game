@@ -3,7 +3,7 @@
 A classic word-guessing game built with HTML, CSS, and JavaScript. Test your vocabulary skills by guessing the hidden word letter by letter before the hangman is fully drawn! The game features a clean interface, dynamic keyboard input, and a variety of words with hints.
 
 ## Live Demo
-Check out the live version here: *(Insert your GitHub Pages URL, e.g., https://digitalgl.github.io/Hangman-Game/)*
+Check out the live version here: *(https://digitalgl.github.io/Hangman-Game/)*
 
 ## Features
 - Guess a word by selecting letters from an on-screen keyboard.
